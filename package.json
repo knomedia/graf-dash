@@ -1,6 +1,6 @@
 {
   "name": "graf-dash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "utility methods for building grafana scripted dashboards",
   "main": "index.js",
   "scripts": {
